@@ -1,0 +1,10 @@
+{
+  "description": "Discover and stream music effortlessly with a user-friendly platform designed for music lovers, featuring curated playlists and personalized recommendations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
