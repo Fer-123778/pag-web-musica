@@ -247,7 +247,7 @@ export default function News() {
                 </p>
                 <div
                   className="flex items-center gap-2 text-sm"
-                  style={{ color: "#4a4a6a" }}
+                  style={{ color: "#a0a0c0" }}
                 >
                   <span>{filtered[0].author}</span>
                   <span>·</span>
@@ -296,7 +296,7 @@ export default function News() {
                   </p>
                   <div
                     className="flex items-center gap-2 text-xs"
-                    style={{ color: "#4a4a6a" }}
+                    style={{ color: "#a0a0c0" }}
                   >
                     <span>{n.author}</span>
                     <span>·</span>

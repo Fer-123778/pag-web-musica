@@ -79,7 +79,7 @@ export default function ArtistCard({ artist, compact }: ArtistCardProps) {
         <p className="text-sm mt-0.5 truncate" style={{ color: "#7c7a9e" }}>
           {artist.genre}
         </p>
-        <p className="text-xs mt-1" style={{ color: "#4a4a6a" }}>
+        <p className="text-xs mt-1" style={{ color: "#a0a0c0" }}>
           {formatFollowers(artist.followers)} seguidores
         </p>
         <button

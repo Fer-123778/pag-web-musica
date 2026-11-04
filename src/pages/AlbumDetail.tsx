@@ -203,7 +203,7 @@ export default function AlbumDetail() {
         >
           <div
             className="flex items-center px-4 py-2 text-xs uppercase tracking-widest"
-            style={{ color: "#4a4a6a", borderBottom: "1px solid #1e1e35" }}
+            style={{ color: "#a0a0c0", borderBottom: "1px solid #1e1e35" }}
           >
             <span className="w-8 text-center">#</span>
             <span className="ml-14 flex-1">Título</span>

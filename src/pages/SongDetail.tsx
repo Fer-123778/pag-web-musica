@@ -225,7 +225,7 @@ export default function SongDetail() {
                   </span>
                 </div>
                 {!state.user && (
-                  <p className="text-xs mt-2" style={{ color: "#4a4a6a" }}>
+                  <p className="text-xs mt-2" style={{ color: "#a0a0c0" }}>
                     <button
                       onClick={() =>
                         dispatch({ type: "OPEN_AUTH", mode: "register" })

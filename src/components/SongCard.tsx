@@ -194,10 +194,10 @@ export default function SongCard({
           {artist?.name}
         </p>
         <div className="flex items-center justify-between mt-2">
-          <span className="text-xs" style={{ color: "#4a4a6a" }}>
+          <span className="text-xs" style={{ color: "#a0a0c0" }}>
             {song.genre}
           </span>
-          <span className="text-xs" style={{ color: "#4a4a6a" }}>
+          <span className="text-xs" style={{ color: "#a0a0c0" }}>
             {formatDuration(song.duration)}
           </span>
         </div>
@@ -208,7 +208,7 @@ export default function SongCard({
           <span className="text-xs" style={{ color: "#7c7a9e" }}>
             {song.rating.toFixed(1)}
           </span>
-          <span className="text-xs ml-2" style={{ color: "#4a4a6a" }}>
+          <span className="text-xs ml-2" style={{ color: "#a0a0c0" }}>
             {formatPlays(song.plays)} plays
           </span>
         </div>

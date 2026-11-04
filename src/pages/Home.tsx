@@ -459,11 +459,11 @@ export default function Home() {
                     {n.summary}
                   </p>
                   <div className="flex items-center gap-2 mt-3">
-                    <span className="text-xs" style={{ color: "#4a4a6a" }}>
+                    <span className="text-xs" style={{ color: "#a0a0c0" }}>
                       {n.author}
                     </span>
                     <span style={{ color: "#2a2a4a" }}>·</span>
-                    <span className="text-xs" style={{ color: "#4a4a6a" }}>
+                    <span className="text-xs" style={{ color: "#a0a0c0" }}>
                       {n.readTime} min lectura
                     </span>
                   </div>

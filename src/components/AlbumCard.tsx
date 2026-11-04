@@ -96,7 +96,7 @@ export default function AlbumCard({ album, compact }: AlbumCardProps) {
           {artist?.name}
         </p>
         <div className="flex items-center justify-between mt-2">
-          <span className="text-xs" style={{ color: "#4a4a6a" }}>
+          <span className="text-xs" style={{ color: "#a0a0c0" }}>
             {album.year} · {album.genre}
           </span>
           <div className="flex items-center gap-1">

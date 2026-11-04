@@ -387,7 +387,7 @@ export default function MyLibrary() {
                     <p className="text-xs mt-0.5" style={{ color: "#7c7a9e" }}>
                       {pl.description || "Sin descripción"}
                     </p>
-                    <p className="text-xs mt-1" style={{ color: "#4a4a6a" }}>
+                    <p className="text-xs mt-1" style={{ color: "#a0a0c0" }}>
                       {pl.songIds.length} canciones · {pl.createdAt}
                     </p>
                   </div>

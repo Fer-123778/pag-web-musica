@@ -72,7 +72,7 @@ export default function Profile() {
                 {user.name}
               </h1>
               <p style={{ color: "#7c7a9e" }}>@{user.username}</p>
-              <p className="text-xs mt-1" style={{ color: "#4a4a6a" }}>
+              <p className="text-xs mt-1" style={{ color: "#a0a0c0" }}>
                 Miembro desde {user.joinDate}
               </p>
             </div>

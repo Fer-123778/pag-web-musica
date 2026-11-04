@@ -114,7 +114,7 @@ export default function Footer() {
           className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-8"
           style={{ borderTop: "1px solid #1e1e35" }}
         >
-          <p className="text-sm" style={{ color: "#4a4a6a" }}>
+          <p className="text-sm" style={{ color: "#a0a0c0" }}>
             © 2025 Música Hub. Todos los derechos reservados.
           </p>
           <div className="flex gap-3">

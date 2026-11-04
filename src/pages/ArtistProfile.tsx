@@ -229,7 +229,7 @@ export default function ArtistProfile() {
                     <p className="text-sm" style={{ color: "#7c7a9e" }}>
                       {ev.city}, {ev.country}
                     </p>
-                    <p className="text-xs mt-0.5" style={{ color: "#4a4a6a" }}>
+                    <p className="text-xs mt-0.5" style={{ color: "#a0a0c0" }}>
                       {ev.time}
                     </p>
                   </div>
@@ -284,7 +284,7 @@ export default function ArtistProfile() {
                     <p className="font-medium text-sm mt-0.5 line-clamp-2">
                       {n.title}
                     </p>
-                    <p className="text-xs mt-1" style={{ color: "#4a4a6a" }}>
+                    <p className="text-xs mt-1" style={{ color: "#a0a0c0" }}>
                       {n.author}
                     </p>
                   </div>

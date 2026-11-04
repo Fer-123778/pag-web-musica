@@ -114,7 +114,7 @@ export default function QueuePanel() {
             <p className="text-sm" style={{ color: "#7c7a9e" }}>
               La cola está vacía
             </p>
-            <p className="text-xs mt-1" style={{ color: "#4a4a6a" }}>
+            <p className="text-xs mt-1" style={{ color: "#a0a0c0" }}>
               Agrega canciones para reproducirlas a continuación
             </p>
           </div>
