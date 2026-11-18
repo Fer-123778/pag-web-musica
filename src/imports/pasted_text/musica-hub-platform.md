@@ -164,8 +164,7 @@ Barra de progreso.
 Controles.
 Volumen.
 Letras, si están disponibles.
-Información de la canción.
-5. COLA DE REPRODUCCIÓN
+Información de la canción. 5. COLA DE REPRODUCCIÓN
 
 Crear un panel llamado:
 
@@ -187,8 +186,7 @@ Las tarjetas musicales deben permitir:
 
 “Reproducir ahora”.
 “Agregar a la cola”.
-“Agregar a favoritos”.
-6. EXPLORAR
+“Agregar a favoritos”. 6. EXPLORAR
 
 Crear una sección general de exploración.
 
@@ -208,8 +206,7 @@ Género.
 Año.
 Popularidad.
 Valoración.
-Fecha de lanzamiento.
-7. NOTICIAS
+Fecha de lanzamiento. 7. NOTICIAS
 
 Crear una página completa de noticias musicales.
 
@@ -298,8 +295,7 @@ Al entrar en un género mostrar:
 Canciones populares.
 Artistas destacados.
 Álbumes destacados.
-Nuevos lanzamientos del género.
-10. RANKINGS
+Nuevos lanzamientos del género. 10. RANKINGS
 
 Crear una página completa de rankings.
 
@@ -423,8 +419,7 @@ Agregar estadísticas personales:
 Canciones guardadas.
 Álbumes guardados.
 Artistas seguidos.
-Votos realizados.
-14. LO MÍO
+Votos realizados. 14. LO MÍO
 
 Crear una biblioteca personal.
 
@@ -467,8 +462,7 @@ Mis favoritas.
 Para entrenar.
 Para estudiar.
 Descubrimientos.
-Música para viajar.
-16. HISTORIAL
+Música para viajar. 16. HISTORIAL
 
 Crear sección:
 
@@ -503,8 +497,7 @@ Los artistas seguidos aparecerán en:
 Perfil del usuario.
 Lo mío.
 Recomendaciones.
-Noticias relacionadas.
-18. NIVEL 2 — PERFIL DEL ARTISTA
+Noticias relacionadas. 18. NIVEL 2 — PERFIL DEL ARTISTA
 
 Crear un perfil de artista completo.
 
@@ -631,8 +624,7 @@ Botones:
 
 Reproducir álbum.
 Agregar a favoritos.
-Agregar a playlist.
-21. FAVORITOS
+Agregar a playlist. 21. FAVORITOS
 
 La estrella debe tener dos estados:
 
@@ -692,8 +684,7 @@ Nuevo lanzamiento de un artista seguido.
 Nuevo concierto.
 Playlist actualizada.
 Recomendación.
-Confirmación de voto.
-24. CONFIGURACIÓN
+Confirmación de voto. 24. CONFIGURACIÓN
 
 Crear página de configuración del usuario.
 
@@ -735,8 +726,7 @@ Nombre.
 Email.
 Asunto.
 Mensaje.
-Botón Enviar.
-26. FOOTER
+Botón Enviar. 26. FOOTER
 
 Crear Footer completo.
 
@@ -804,8 +794,7 @@ Reproductor compacto.
 Tarjetas adaptadas.
 Reproductor expandible.
 Paneles laterales convertidos en secciones verticales.
-Botones táctiles grandes.
-29. SISTEMA DE DISEÑO
+Botones táctiles grandes. 29. SISTEMA DE DISEÑO
 
 Crear componentes reutilizables en Figma.
 
@@ -841,8 +830,7 @@ Default.
 Hover.
 Active.
 Disabled.
-Loading.
-30. INTERACCIONES DEL PROTOTIPO
+Loading. 30. INTERACCIONES DEL PROTOTIPO
 
 Conectar las pantallas mediante prototipo.
 
